@@ -6,16 +6,17 @@ const PrivacyPolicy = () => {
       <Navbar />
       <section className="py-10 sm:py-16 lg:py-24">
         <div className="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
-          <div className="grid items-center grid-cols-1 gap-12 lg:grid-cols-2">
+          <div className="grid items-center grid-cols-1 gap-12 ">
             <div>
               <h1 className="text-4xl font-bold text-black sm:text-6xl lg:text-7xl">
                 Privacy Policy for HireHub
               </h1>
               <p className="mt-8 text-base text-black sm:text-xl">
-                At HireHub, accessible from [Insert Website URL], one of our
-                main priorities is the privacy of our visitors. This Privacy
-                Policy document contains types of information that is collected
-                and recorded by HireHub and how we use it.
+                At HireHub, accessible from
+                https://hirehub-web.vercel.app, one of our main
+                priorities is the privacy of our visitors. This Privacy Policy
+                document contains types of information that is collected and
+                recorded by HireHub and how we use it.
               </p>
               <p className="mt-8 text-base text-black sm:text-xl">
                 If you have additional questions or require more information
@@ -101,11 +102,11 @@ const PrivacyPolicy = () => {
                 Third Party Privacy Policies
               </h2>
               <p className="mt-4 text-base text-black sm:text-xl">
-                HireHub&apos;s Privacy Policy does not apply to other advertisers or
-                websites. Thus, we are advising you to consult the respective
-                Privacy Policies of these third-party ad servers for more
-                detailed information. It may include their practices and
-                instructions about how to opt-out of certain options.
+                HireHub&apos;s Privacy Policy does not apply to other
+                advertisers or websites. Thus, we are advising you to consult
+                the respective Privacy Policies of these third-party ad servers
+                for more detailed information. It may include their practices
+                and instructions about how to opt-out of certain options.
               </p>
               <h2 className="mt-8 text-2xl font-bold text-black sm:text-3xl lg:text-4xl">
                 GDPR Data Protection Rights
