@@ -101,7 +101,7 @@ const PrivacyPolicy = () => {
                 Third Party Privacy Policies
               </h2>
               <p className="mt-4 text-base text-black sm:text-xl">
-                HireHub's Privacy Policy does not apply to other advertisers or
+                HireHub&apos;s Privacy Policy does not apply to other advertisers or
                 websites. Thus, we are advising you to consult the respective
                 Privacy Policies of these third-party ad servers for more
                 detailed information. It may include their practices and
