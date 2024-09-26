@@ -3,7 +3,7 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <div className="bg-white">
+    <div className="bg-white min-h-screen">
       <Navbar />
       <section className="py-10 sm:py-16 lg:py-24">
         <div className="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
